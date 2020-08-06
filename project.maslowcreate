@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "Pull Request Test",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 522589,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9861687413554633,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
